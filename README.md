@@ -14,7 +14,6 @@ Ph.D. Student in Computer Science at [PUC-Rio](http://lattes.cnpq.br/85576897878
 Ph.D. Intern in Research Development Software Engineer at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/) <br>
 
 ### Find me elsewhere 🌎
-[E-mail](abelgodev at gmail dot com) <br>
 [Twitter](https://twitter.com/abelglez89) <br>
 [Instagram](https://instagram.com/abelgonzalezmondejar) <br>
 [LinkedIn](https://www.linkedin.com/in/abelgonzalezmondejar/) <br>
