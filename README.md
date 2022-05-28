@@ -1,6 +1,6 @@
-### Hey, I'm Abel González! 👋
+### Hey, I'm Abel! 👋
 
-I'm currently Ph.D. Student in Computer Science at [PUC-Rio](http://lattes.cnpq.br/8557689787867236). Also, I work as Ph.D. Intern in Research Development Software Engineer at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/)
+I'm Software Developer passionate about the best development technologies. Currently, I work as Ph.D. Intern in Research Development Software Engineer at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/) and, I'm Ph.D. Student in Computer Science at [PUC-Rio](http://lattes.cnpq.br/8557689787867236).
 
 - 🔭 I’m currently working at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/)
 - 🌱 I’m currently learning **about how to improve my technical skills**
