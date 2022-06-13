@@ -10,7 +10,7 @@ I'm Backend Software Developer passionate about the best development technologie
 - 📄 Know about my experiences [https://www.linkedin.com/in/abelgonzalezmondejar](https://www.linkedin.com/in/abelgonzalezmondejar)
 
 🇨🇺 Born in Colón, Cuba <br>
-🇧🇷 Living in Rio de Janeiro, Brazil <br>
+🇧🇷 Living in Rio de Janeiro, Brazil <br> 
 
 <div align="left">
   <a href="https://github.com/abelgonzalez">
