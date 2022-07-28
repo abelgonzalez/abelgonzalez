@@ -8,6 +8,7 @@ I'm Backend Software Developer passionate about the best development technologie
 - 💬 Ask me about **data science, real-time monitoring, tech, algorithms, or career; I am happy to help**
 - 📫 How to reach me **abelgodev@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/abelgonzalezmondejar](https://www.linkedin.com/in/abelgonzalezmondejar)
+- 😎 Fun fact: I love 🚵🍻✈️🎶
 
 🇨🇺 Born in Colón, Cuba <br>
 🇧🇷 Living in Rio de Janeiro, Brazil <br> 
