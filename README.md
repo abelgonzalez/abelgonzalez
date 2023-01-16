@@ -13,7 +13,7 @@ I'm Backend Software Developer passionate about the best development technologie
 🇨🇺 Born in Colón, Cuba <br>
 🇧🇷 Living in Rio de Janeiro, Brazil <br> 
 
-<div align="left">
+<div align="left" visible=false>
   <a href="https://github.com/abelgonzalez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelgonzalez&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelgonzalez&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
