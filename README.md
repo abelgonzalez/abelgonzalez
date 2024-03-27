@@ -1,6 +1,6 @@
 ### Hey, I'm Abel! 👋
 
-I'm Backend Software Developer passionate about the best development technologies. Currently, I work as Ph.D. Intern in Research Development Software Engineer at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/) and, I'm Ph.D. Student in Computer Science at [PUC-Rio](http://lattes.cnpq.br/8557689787867236).
+I'm a software developer passionate about the best development technologies. Currently, I work as a System Analyst at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/), and I am finishing my Ph.D. in Computer Science at [PUC-Rio](http://lattes.cnpq.br/8557689787867236).
 
 - 🔭 I’m currently working at [Tecgraf PUC-Rio](https://www.tecgraf.puc-rio.br/) as System Analyst.
 - 🌱 I’m currently learning **about how to improve my technical skills**
